@@ -1,0 +1,113 @@
+
+
+
+
+#Navagation {
+    margin-left: 0px;
+    background-color: black;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-evenly;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    
+}
+
+#loginbutton {
+  position: fixed;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin:  200px 710px;
+  cursor: pointer;
+  
+
+}
+
+
+#loginbutton {
+  background-color: green;
+  border: 10px solid blue;
+  padding: 15px 32px;
+}
+
+#registerbutton {
+  position: fixed;
+  color: white;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 275px 700px;
+  cursor: pointer;
+}
+
+#registerbutton {
+  background-color: purple;
+  border: 10px solid blue;
+  padding: 15px 32px;
+}
+
+#leaderboardbutton {
+  
+  position: fixed;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin:  350px 690px;
+    cursor: pointer;
+    }
+ 
+#leaderboardbutton {
+  background-color: red;
+  border: 10px solid blue;
+  padding: 15px 32px;
+}
+
+.header {
+  margin: 0%;
+  padding: 0%;
+}
+
+.signup-box {
+  width: 360px;
+  height: 620px;
+  margin: auto;
+  margin-top: 20px;
+  background-color: aqua;
+  border-radius: 3px;
+  text-align: center;
+
+}
+
+.h1 {
+  text-align: center;
+  padding-top: 15px;
+
+}
+form {
+  width: 300px;
+  margin-left: 20px;
+
+}
+
+form label 
+{
+  display: flex;
+  margin-top: 20px;
+  font-size: 18px;
+
+}
+
+input { [type=buttons]
+width: 320px;
+height: 35px;
+margin-top: 20px;
+border: none;
+background-color: blueviolet;
+col
